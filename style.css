@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
       src: url(/fonts/gilroy-medium.ttf);
 }
 .wrapper {
-  font-family: 'Gilroy';
+  font-family: 'Roboto', sans-serif;;
 
   display: flex;
   flex-direction: column;
