@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
 /*-----------------------------------------*/
 @font-face {
   font-family: Gilroy;
-  src: url(fonts/gilroy-medium.ttf);
+  src: url(/fonts/gilroy-medium.ttf);
 }
 /*------------------------------------------------
                       header
