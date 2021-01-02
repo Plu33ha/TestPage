@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5, h6 {
                       header
 --------------------------------------------------*/
 @font-face {
-font-family: Gilroy;
+font-family: 'Gilroy';
 src: url(fonts/gilroy-medium.ttf);
 }
 .wrapper {
